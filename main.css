@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           dark vupload
+@namespace      userstyles.world
+@version        1.0.0
+==/UserStyle== */
+@-moz-document domain("vupload.com") {
+.player-container-header, .container-full-player, footer{
+    background-color: #111;
+    color: #ccc;
+    border-color: #222
+}
+}
